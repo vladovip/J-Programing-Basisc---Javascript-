@@ -1,0 +1,14 @@
+function solve (input){
+
+
+
+
+
+
+    
+
+ 
+}
+solve ([ 
+
+ ]);
